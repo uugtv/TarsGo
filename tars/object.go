@@ -8,9 +8,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/TarsCloud/TarsGo/tars/protocol/res/basef"
-	"github.com/TarsCloud/TarsGo/tars/protocol/res/requestf"
-	"github.com/TarsCloud/TarsGo/tars/util/rtimer"
+	"github.com/uugtv/TarsGo/tars/protocol/res/basef"
+	"github.com/uugtv/TarsGo/tars/protocol/res/requestf"
+	"github.com/uugtv/TarsGo/tars/util/rtimer"
 )
 
 // ObjectProxy is struct contains proxy information

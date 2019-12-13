@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TarsCloud/TarsGo/tars/protocol/res/statf"
+	"github.com/uugtv/TarsGo/tars/protocol/res/statf"
 )
 
 //StatInfo struct contains stat info' head and body.

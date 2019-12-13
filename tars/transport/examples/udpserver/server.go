@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/TarsCloud/TarsGo/tars/transport"
+	"github.com/uugtv/TarsGo/tars/transport"
 )
 
 //MyServer testing tars udp server

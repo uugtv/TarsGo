@@ -5,7 +5,7 @@ package notifyf
 
 import (
 	"fmt"
-	"github.com/TarsCloud/TarsGo/tars/protocol/codec"
+	"github.com/uugtv/TarsGo/tars/protocol/codec"
 )
 
 //NotifyItem strcut implement

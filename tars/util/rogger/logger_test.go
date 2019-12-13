@@ -1,7 +1,7 @@
 package rogger
 
 import (
-	"tars/util/logger"
+	"./tars/util/logger"
 	"testing"
 	"time"
 )

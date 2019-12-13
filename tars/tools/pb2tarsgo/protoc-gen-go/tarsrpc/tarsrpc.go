@@ -45,10 +45,10 @@ import (
 // Paths for packages used by code generated in this file,
 // relative to the import_prefix of the generator.Generator.
 const (
-	modelPkgPath   = "github.com/TarsCloud/TarsGo/tars/model"
-	requestPkgPath = "github.com/TarsCloud/TarsGo/tars/protocol/res/requestf"
-	tarsPkgPath    = "github.com/TarsCloud/TarsGo/tars"
-	toolsPath      = "github.com/TarsCloud/TarsGo/tars/util/tools"
+	modelPkgPath   = "github.com/uugtv/TarsGo/tars/model"
+	requestPkgPath = "github.com/uugtv/TarsGo/tars/protocol/res/requestf"
+	tarsPkgPath    = "github.com/uugtv/TarsGo/tars"
+	toolsPath      = "github.com/uugtv/TarsGo/tars/util/tools"
 )
 
 func init() {

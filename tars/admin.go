@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/TarsCloud/TarsGo/tars/util/debug"
-	logger "github.com/TarsCloud/TarsGo/tars/util/rogger"
+	"github.com/uugtv/TarsGo/tars/util/debug"
+	logger "github.com/uugtv/TarsGo/tars/util/rogger"
 )
 
 //Admin struct
