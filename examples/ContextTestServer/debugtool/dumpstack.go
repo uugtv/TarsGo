@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/TarsCloud/TarsGo/tars"
-	"github.com/TarsCloud/TarsGo/tars/protocol/res/adminf"
+	"github.com/uugtv/TarsGo/tars"
+	"github.com/uugtv/TarsGo/tars/protocol/res/adminf"
 )
 
 func main() {
